@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color: #BD613C;
+    
+}
+
+.button {
+    
+}
+
+nav {
+    text-align: center;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+nav a{
+        text-decoration: none;
+    padding-right: 80px; 
+    
+}
+
+h1 {
+
+}
+section{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.left{
+    text-align: left;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   background-color: #BCAF4D;
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+main{
+     background-color: #F1BAA1;
+}
+.left2{
+   float:  right;
+}
+.right2{
+    text-align: left;
+}
+a{
+    color: white;
+}
